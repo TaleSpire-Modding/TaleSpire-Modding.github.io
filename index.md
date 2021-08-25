@@ -8,15 +8,15 @@ TaleWeaver is currently not released as of yet. Due to this the modding communit
 ### [EAR]() + [CMP](https://github.com/LordAshes/TaleSpire-CustomMiniPlugin) + [EAL](https://talespire-modding.github.io/ExtraAssetsLibrary/)
 EAR, CMP, and EAL are plugins that are currently in use whilst we do not have TaleWeaver. Upon TaleWeaver release it will be determined if we continue supporting this tool or to adopt TaleWeaver. 
 
-### Bepinex + Harmony
+### Bepinex + [Harmony](https://harmony.pardeike.net/articles/patching.html)
 Plugins are currently being created via Bepinx and Harmony frameworks enabling injection of custom code into TaleSpire.
 
-### Repos
+### [Repos](https://github.com/TaleSpire-Modding)
 Name | Description | Authors
 ------------ | ------------- | -------------
 [AssetDownloader](https://talespire-modding.github.io/AssetDownloader/) | Unofficial plugin for TaleSpire which allows the GM to send a download request to client to download game assets | [LordAshes](https://github.com/LordAshes)
 DiceCallbackPlugin | | [HolloFox](https://github.com/brajm008)
-[ExtraAssetsLibrary](https://talespire-modding.github.io/ExtraAssetsLibrary/) | | [HolloFox](https://github.com/brajm008)
+[ExtraAssetsLibrary](https://talespire-modding.github.io/ExtraAssetsLibrary/) | UI component and DB Injection of assets into TaleSpire | [HolloFox](https://github.com/brajm008)
 
 
 ### Support or Contact
