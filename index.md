@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+## Welcome to TaleSpire Modding
+Welcome to the start of Modding Talespire.
+This site is currently WIP as we're collating our research.
 
-You can use the [editor on GitHub](https://github.com/TaleSpire-Modding/TaleSpire-Modding.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+### TaleWeaver
+TaleWeaver is currently not released as of yet. Due to this the modding community has created their own flow called CMPEAL which allows currently the import of custom minis and in the future Tiles and Props.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### CMP + EAL
+CMP and EAL are plugins that are currently in use whilst we do not have TaleWeaver. Upon TaleWeaver release it will be determined if we continue supporting this tool or to adopt TaleWeaver. 
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/TaleSpire-Modding/TaleSpire-Modding.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Bepinex + Harmony
+Plugins are currently being created via Bepinx and Harmony frameworks enabling injection of custom code into TaleSpire.
 
 ### Support or Contact
+Mods are uploaded to [Thunderstore](Talespire.thunderstore.io/) upon release. We also have a [discord](https://discord.gg/vH2Ge6KsjW) where you can chat with mod developers or join the community and get into creating your own mods.
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
