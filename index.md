@@ -5,7 +5,7 @@ This site is currently WIP as we're collating our research.
 ### TaleWeaver
 TaleWeaver is currently not released as of yet. Due to this the modding community has created their own flow called EARCMPEAL (pronounced "here, simple") which allows currently the import of custom minis and in the future Tiles and Props.
 
-### [EAR]() + [CMP](https://github.com/LordAshes/TaleSpire-CustomMiniPlugin) + [EAL](https://talespire-modding.github.io/ExtraAssetsLibrary/)
+### [EAR](https://github.com/LordAshes/TaleSpire-ExtraAssetsRegistrationPlugin) + [CMP](https://github.com/LordAshes/TaleSpire-CustomMiniPlugin) + [EAL](https://talespire-modding.github.io/ExtraAssetsLibrary/)
 EAR, CMP, and EAL are plugins that are currently in use whilst we do not have TaleWeaver. Upon TaleWeaver release it will be determined if we continue supporting this tool or to adopt TaleWeaver. 
 
 ### Bepinex + [Harmony](https://harmony.pardeike.net/articles/patching.html)
